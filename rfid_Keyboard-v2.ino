@@ -20,7 +20,6 @@
        it can emulate via USB a keyboard or a mouse) order types like this => https://www.google.de/search?q=arduino+pro+micro
     +  RFID RC522 Modul like this => https://www.google.de/search?q=rfid+rc522
     +  if you have only 5.0v VCC on Board, use a AMS1117-3.3 like this => http://www.advanced-monolithic.com/pdf/ds1117.pdf
-    +  LED Button like this => https://www.google.de/search?q=LED+Light+Tactile+Push+Button
     
   If you have any useful changes or improvements please let me know.
   (Not a wish (but a command)) have fun (NOW (and for the rest of your life))!
@@ -28,7 +27,7 @@
   
   https://github.com/MTrage/Arduino-RFID-Keyboard/blob/master/Arduino-RFID-Keyboard.ino
 
-  Edit for Special use by EsMi 20 Jan 2023
+  ++++++++++++++++++    Edit for Special use by EsMi 20 Jan 2023
 */
 
 
