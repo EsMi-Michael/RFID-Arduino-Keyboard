@@ -9,7 +9,7 @@
   ! VCC  to RFID RC522 Modul needs 3.3v, more informations about this at line 22.
     GND  GND
     IRG  not connected
-    RST  pin 6
+    RST  pin 5
     SDA  pin 10  
     MISO pin 14
     SCK  pin 15  
@@ -27,6 +27,8 @@
 
   
   https://github.com/MTrage/Arduino-RFID-Keyboard/blob/master/Arduino-RFID-Keyboard.ino
+
+  Edit for Special use by EsMi 20 Jan 2023
 */
 
 
